@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"TFTP Project.\n";
+    cout<<"TFTP Project v2.\n";
     return 0;
 }
